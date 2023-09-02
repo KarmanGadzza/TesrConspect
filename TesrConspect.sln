@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TesrConspect", "TesrConspect\TesrConspect.vcxproj", "{0C6D52BF-9D28-4666-966E-83726FE07852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6D52BF-9D28-4666-966E-83726FE07852}.Debug|x64.ActiveCfg = Debug|x64
+		{0C6D52BF-9D28-4666-966E-83726FE07852}.Debug|x64.Build.0 = Debug|x64
+		{0C6D52BF-9D28-4666-966E-83726FE07852}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C6D52BF-9D28-4666-966E-83726FE07852}.Debug|x86.Build.0 = Debug|Win32
+		{0C6D52BF-9D28-4666-966E-83726FE07852}.Release|x64.ActiveCfg = Release|x64
+		{0C6D52BF-9D28-4666-966E-83726FE07852}.Release|x64.Build.0 = Release|x64
+		{0C6D52BF-9D28-4666-966E-83726FE07852}.Release|x86.ActiveCfg = Release|Win32
+		{0C6D52BF-9D28-4666-966E-83726FE07852}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170B3CA2-0A5D-45DC-8A0F-C47F64758963}
+	EndGlobalSection
+EndGlobal
